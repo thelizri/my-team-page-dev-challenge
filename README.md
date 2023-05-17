@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="hhttps://thelizri.github.io/my-team-page-dev-challenge/">
+    <a href="https://thelizri.github.io/my-team-page-dev-challenge/">
       Demo
     </a>
     <span> | </span>
